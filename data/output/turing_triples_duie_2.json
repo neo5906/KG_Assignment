@@ -1,0 +1,562 @@
+[
+  {
+    "subject": "希特勒",
+    "predicate": "国籍",
+    "object": "北非"
+  },
+  {
+    "subject": "爱因斯坦",
+    "predicate": "父亲",
+    "object": "爱德华"
+  },
+  {
+    "subject": "在图灵",
+    "predicate": "父亲",
+    "object": "图灵机"
+  },
+  {
+    "subject": "泰晤士报",
+    "predicate": "成立日期",
+    "object": "1949年"
+  },
+  {
+    "subject": "爱德华",
+    "predicate": "父亲",
+    "object": "爱因斯坦"
+  },
+  {
+    "subject": "论可计算的数及其在密码问题中的应用",
+    "predicate": "作者",
+    "object": "图灵机"
+  },
+  {
+    "subject": "朱利叶斯·马西森·图灵",
+    "predicate": "毕业院校",
+    "object": "牛津大学基督学院"
+  },
+  {
+    "subject": "皇家学会",
+    "predicate": "成立日期",
+    "object": "1954年6月7日"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "毕业院校",
+    "object": "剑桥大学国王学院"
+  },
+  {
+    "subject": "朱利叶斯",
+    "predicate": "毕业院校",
+    "object": "民政部"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "毕业院校",
+    "object": "牛津大学基督学院"
+  },
+  {
+    "subject": "论高斯误差函数",
+    "predicate": "作者",
+    "object": "图灵"
+  },
+  {
+    "subject": "恩尼格玛密",
+    "predicate": "国籍",
+    "object": "德国"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "毕业院校",
+    "object": "国家物理实验室"
+  },
+  {
+    "subject": "朱利叶斯·马西森·图灵",
+    "predicate": "父亲",
+    "object": "图灵"
+  },
+  {
+    "subject": "可计算性与λ可定义性",
+    "predicate": "作者",
+    "object": "图灵机"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "丈夫",
+    "object": "穆雷"
+  },
+  {
+    "subject": "形态发生的化学基础",
+    "predicate": "作者",
+    "object": "图灵"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "毕业院校",
+    "object": "普林斯顿高级研究院"
+  },
+  {
+    "subject": "计算机器与智能",
+    "predicate": "作者",
+    "object": "图灵"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1948年"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "丈夫",
+    "object": "伊丽莎白二世"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "毕业院校",
+    "object": "国王学院"
+  },
+  {
+    "subject": "艾伦·图灵传：如谜的解谜者",
+    "predicate": "作者",
+    "object": "莫腾·泰杜姆"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "丈夫",
+    "object": "阿朗佐·丘奇"
+  },
+  {
+    "subject": "模仿游戏",
+    "predicate": "作者",
+    "object": "图灵"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "毕业院校",
+    "object": "曼彻斯特大学"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "父亲",
+    "object": "戈登·布朗"
+  },
+  {
+    "subject": "剑桥大学国王学院",
+    "predicate": "成立日期",
+    "object": "1931年"
+  },
+  {
+    "subject": "剑桥大学",
+    "predicate": "成立日期",
+    "object": "1953年"
+  },
+  {
+    "subject": "ACM",
+    "predicate": "成立日期",
+    "object": "1966年"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "毕业院校",
+    "object": "曼彻斯特大学计算机实验室"
+  },
+  {
+    "subject": "丘奇",
+    "predicate": "毕业院校",
+    "object": "普林斯顿高级研究院"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "妻子",
+    "object": "丘奇"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "国籍",
+    "object": "巴黎"
+  },
+  {
+    "subject": "计算机器和智能（Computing Machinery and Intelligence）",
+    "predicate": "作者",
+    "object": "图灵"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "毕业院校",
+    "object": "剑桥大学"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "毕业院校",
+    "object": "普林斯顿大学"
+  },
+  {
+    "subject": "皇家学会",
+    "predicate": "成立日期",
+    "object": "1951年"
+  },
+  {
+    "subject": "柏林",
+    "predicate": "首都",
+    "object": "北非"
+  },
+  {
+    "subject": "奥运代表队",
+    "predicate": "成立日期",
+    "object": "1948年"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "丈夫",
+    "object": "丘奇"
+  },
+  {
+    "subject": "爱德华",
+    "predicate": "父亲",
+    "object": "图灵"
+  },
+  {
+    "subject": "北非",
+    "predicate": "首都",
+    "object": "柏林"
+  },
+  {
+    "subject": "国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1945年—1948年"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "国籍",
+    "object": "英国"
+  },
+  {
+    "subject": "恩尼格玛",
+    "predicate": "国籍",
+    "object": "德国"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "父亲",
+    "object": "爱德华"
+  },
+  {
+    "subject": "道格拉斯·哈特里",
+    "predicate": "毕业院校",
+    "object": "剑桥大学"
+  },
+  {
+    "subject": "伊丽莎白二世",
+    "predicate": "国籍",
+    "object": "英国"
+  },
+  {
+    "subject": "阿朗佐·丘奇",
+    "predicate": "国籍",
+    "object": "美国"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "国籍",
+    "object": "美国"
+  },
+  {
+    "subject": "阿朗佐·丘奇",
+    "predicate": "丈夫",
+    "object": "图灵"
+  },
+  {
+    "subject": "艾伦·图灵",
+    "predicate": "国籍",
+    "object": "德国"
+  },
+  {
+    "subject": "民政部",
+    "predicate": "成立日期",
+    "object": "1896年7月"
+  },
+  {
+    "subject": "国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1948年"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "国籍",
+    "object": "印度"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "妻子",
+    "object": "阿诺德·穆雷"
+  },
+  {
+    "subject": "阿诺德·穆雷",
+    "predicate": "妻子",
+    "object": "图灵"
+  },
+  {
+    "subject": "艾伦·图灵传",
+    "predicate": "作者",
+    "object": "莫腾·泰杜姆"
+  },
+  {
+    "subject": "图灵机",
+    "predicate": "父亲",
+    "object": "图灵"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "父亲",
+    "object": "朱利叶斯·马西森·图灵"
+  },
+  {
+    "subject": "艾赛儿·斯托尼",
+    "predicate": "毕业院校",
+    "object": "大学文理学院"
+  },
+  {
+    "subject": "丘奇",
+    "predicate": "国籍",
+    "object": "美国"
+  },
+  {
+    "subject": "阿朗佐·丘奇",
+    "predicate": "丈夫",
+    "object": "丘奇"
+  },
+  {
+    "subject": "丘奇",
+    "predicate": "妻子",
+    "object": "图灵"
+  },
+  {
+    "subject": "美国计算机协会",
+    "predicate": "成立日期",
+    "object": "1966年"
+  },
+  {
+    "subject": "穆雷",
+    "predicate": "丈夫",
+    "object": "图灵"
+  },
+  {
+    "subject": "朱利叶斯",
+    "predicate": "国籍",
+    "object": "印度"
+  },
+  {
+    "subject": "艾伦·图灵",
+    "predicate": "国籍",
+    "object": "英格兰"
+  },
+  {
+    "subject": "艾伦·图灵传：如谜的解谜者",
+    "predicate": "作者",
+    "object": "图灵"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "父亲",
+    "object": "图灵机"
+  },
+  {
+    "subject": "剑桥大学",
+    "predicate": "成立日期",
+    "object": "1941年"
+  },
+  {
+    "subject": "普林斯顿大学",
+    "predicate": "成立日期",
+    "object": "1938年"
+  },
+  {
+    "subject": "艾赛儿·斯托尼",
+    "predicate": "母亲",
+    "object": "图灵"
+  },
+  {
+    "subject": "论可计算的数及其在密码问题中的应用",
+    "predicate": "作者",
+    "object": "图灵"
+  },
+  {
+    "subject": "国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1945年"
+  },
+  {
+    "subject": "戈登·布朗",
+    "predicate": "国籍",
+    "object": "英国"
+  },
+  {
+    "subject": "戈登·布朗",
+    "predicate": "父亲",
+    "object": "图灵"
+  },
+  {
+    "subject": "艾伦·图灵传：如谜的解谜者",
+    "predicate": "作者",
+    "object": "安德鲁·霍奇斯"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "母亲",
+    "object": "艾赛儿·斯托尼"
+  },
+  {
+    "subject": "曼彻斯特大学计算机实验室",
+    "predicate": "成立日期",
+    "object": "1949年"
+  },
+  {
+    "subject": "希特勒",
+    "predicate": "国籍",
+    "object": "欧洲"
+  },
+  {
+    "subject": "形态发生的化学基础（The Chemical Basis of Morphogenesis）",
+    "predicate": "作者",
+    "object": "图灵"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "毕业院校",
+    "object": "剑桥大学国王学院"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "毕业院校",
+    "object": "外交部通信处"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "毕业院校",
+    "object": "剑桥大学"
+  },
+  {
+    "subject": "可计算性与λ可定义性",
+    "predicate": "作者",
+    "object": "图灵"
+  },
+  {
+    "subject": "国王学院",
+    "predicate": "成立日期",
+    "object": "1935年"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "国籍",
+    "object": "德国"
+  },
+  {
+    "subject": "恩尼格玛密",
+    "predicate": "国籍",
+    "object": "英国"
+  },
+  {
+    "subject": "伊丽莎白二世",
+    "predicate": "丈夫",
+    "object": "图灵"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "毕业院校",
+    "object": "大学文理学院"
+  },
+  {
+    "subject": "图灵",
+    "predicate": "母亲",
+    "object": "伊丽莎白二世"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "国籍",
+    "object": "英国"
+  },
+  {
+    "subject": "皇家学会",
+    "predicate": "成立日期",
+    "object": "1912年6月23日"
+  },
+  {
+    "subject": "外交部通信处",
+    "predicate": "成立日期",
+    "object": "1939年"
+  },
+  {
+    "subject": "伊丽莎白二世",
+    "predicate": "母亲",
+    "object": "图灵"
+  },
+  {
+    "subject": "剑桥大学国王学院",
+    "predicate": "成立日期",
+    "object": "1935年"
+  },
+  {
+    "subject": "丘奇",
+    "predicate": "丈夫",
+    "object": "阿朗佐·丘奇"
+  },
+  {
+    "subject": "可计算性与λ可定义性",
+    "predicate": "作者",
+    "object": "丘奇"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "国籍",
+    "object": "印度"
+  },
+  {
+    "subject": "丘奇",
+    "predicate": "丈夫",
+    "object": "图灵"
+  },
+  {
+    "subject": "罗宾·甘迪",
+    "predicate": "毕业院校",
+    "object": "剑桥大学"
+  },
+  {
+    "subject": "曼彻斯特电子计算机程序员手册",
+    "predicate": "作者",
+    "object": "图灵"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "毕业院校",
+    "object": "皇家学会"
+  },
+  {
+    "subject": "模仿游戏",
+    "predicate": "作者",
+    "object": "莫腾·泰杜姆"
+  },
+  {
+    "subject": "艾赛儿·斯托尼",
+    "predicate": "国籍",
+    "object": "巴黎"
+  },
+  {
+    "subject": "阿朗佐·丘奇",
+    "predicate": "毕业院校",
+    "object": "普林斯顿高级研究院"
+  },
+  {
+    "subject": "图灵机",
+    "predicate": "父亲",
+    "object": "在图灵"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "国籍",
+    "object": "伦敦"
+  },
+  {
+    "subject": "马拉松",
+    "predicate": "国籍",
+    "object": "英国"
+  }
+]

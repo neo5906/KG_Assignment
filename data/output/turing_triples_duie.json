@@ -1,0 +1,962 @@
+[
+  {
+    "subject": "曼彻斯特自动数字计算机",
+    "predicate": "成立日期",
+    "object": "1948年"
+  },
+  {
+    "subject": "伊丽莎白二世",
+    "predicate": "国籍",
+    "object": "英国"
+  },
+  {
+    "subject": "大英",
+    "predicate": "所在城市",
+    "object": "布莱切利园"
+  },
+  {
+    "subject": "形态发生的化学基础（The Chemical Basis of Morphogenesis）",
+    "predicate": "作者",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "丈夫",
+    "object": "阿朗佐·丘奇"
+  },
+  {
+    "subject": "戈登·布朗",
+    "predicate": "父亲",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1936年"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1949年"
+  },
+  {
+    "subject": "可计算性与λ可定义性",
+    "predicate": "上映时间",
+    "object": "1937年"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1951年"
+  },
+  {
+    "subject": "曼彻斯特电子计算机程序员手册",
+    "predicate": "上映时间",
+    "object": "1950年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "父亲",
+    "object": "戈登·布朗"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "丈夫",
+    "object": "阿诺德·穆雷"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1951年"
+  },
+  {
+    "subject": "美国计算机协会",
+    "predicate": "成立日期",
+    "object": "1966年"
+  },
+  {
+    "subject": "论可计算的数及其在密码问题中的应用",
+    "predicate": "作者",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1954年"
+  },
+  {
+    "subject": "普林斯顿大学",
+    "predicate": "成立日期",
+    "object": "1935年"
+  },
+  {
+    "subject": "可计算性与λ可定义性",
+    "predicate": "作者",
+    "object": "图灵机"
+  },
+  {
+    "subject": "曼彻斯特大学计算机实验室",
+    "predicate": "成立日期",
+    "object": "1939年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "毕业院校",
+    "object": "普林斯顿大学"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "丈夫",
+    "object": "拉斯·哈特里"
+  },
+  {
+    "subject": "朱利叶斯·马西森·图灵",
+    "predicate": "毕业院校",
+    "object": "印度民政部"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1936年"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1949年"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1949年"
+  },
+  {
+    "subject": "恩尼格玛密码机",
+    "predicate": "成立日期",
+    "object": "1935年"
+  },
+  {
+    "subject": "剑桥大学国王学院",
+    "predicate": "成立日期",
+    "object": "1931年"
+  },
+  {
+    "subject": "曼彻斯特大学计算机实验室",
+    "predicate": "成立日期",
+    "object": "1946年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "父亲",
+    "object": "图灵机"
+  },
+  {
+    "subject": "阿特丽斯·沃斯利",
+    "predicate": "毕业院校",
+    "object": "剑桥大学国王学院"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "总部地点",
+    "object": "英国"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1954年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "母亲",
+    "object": "艾赛儿·斯托尼"
+  },
+  {
+    "subject": "形态发生的化学基础（The Chemical Basis of Morphogenesis）",
+    "predicate": "上映时间",
+    "object": "1952年"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1950年"
+  },
+  {
+    "subject": "百老汇",
+    "predicate": "所在城市",
+    "object": "大英"
+  },
+  {
+    "subject": "图灵机",
+    "predicate": "父亲",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "妻子",
+    "object": "阿诺德·穆雷"
+  },
+  {
+    "subject": "爱德华",
+    "predicate": "父亲",
+    "object": "爱因斯坦"
+  },
+  {
+    "subject": "伦敦谢伯恩公学",
+    "predicate": "成立日期",
+    "object": "1926年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "毕业院校",
+    "object": "英国外交部通信处"
+  },
+  {
+    "subject": "爱德华",
+    "predicate": "父亲",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "论可计算的数及其在密码问题中的应用",
+    "predicate": "上映时间",
+    "object": "1936年"
+  },
+  {
+    "subject": "剑桥大学国王学院",
+    "predicate": "成立日期",
+    "object": "1941年"
+  },
+  {
+    "subject": "Breaking the Code",
+    "predicate": "所在城市",
+    "object": "百老汇"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1945年—1948年"
+  },
+  {
+    "subject": "伊利",
+    "predicate": "所在城市",
+    "object": "剑桥"
+  },
+  {
+    "subject": "艾伦·图灵",
+    "predicate": "饰演",
+    "object": "尼迪克特·康伯巴奇"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1945年—1948年"
+  },
+  {
+    "subject": "艾赛儿·斯托尼",
+    "predicate": "毕业院校",
+    "object": "巴黎大学文理学院"
+  },
+  {
+    "subject": "朱利叶斯·马西森·图灵",
+    "predicate": "国籍",
+    "object": "图灵"
+  },
+  {
+    "subject": "模仿游戏",
+    "predicate": "导演",
+    "object": "Morten Tyldum"
+  },
+  {
+    "subject": "英国泰晤士报",
+    "predicate": "成立日期",
+    "object": "1949年"
+  },
+  {
+    "subject": "计算机器与智能",
+    "predicate": "上映时间",
+    "object": "1950年10月"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1950年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "国籍",
+    "object": "图灵"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1935年"
+  },
+  {
+    "subject": "恩尼格玛密码机",
+    "predicate": "成立日期",
+    "object": "1940年"
+  },
+  {
+    "subject": "程",
+    "predicate": "母亲",
+    "object": "艾赛儿·斯托尼"
+  },
+  {
+    "subject": "伊丽莎白二世",
+    "predicate": "母亲",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "破解密码",
+    "predicate": "编剧",
+    "object": "休·怀特摩尔"
+  },
+  {
+    "subject": "艾赛儿·斯托尼",
+    "predicate": "母亲",
+    "object": "程"
+  },
+  {
+    "subject": "模仿游戏",
+    "predicate": "作者",
+    "object": "程"
+  },
+  {
+    "subject": "曼彻斯特大学计算机实验室",
+    "predicate": "成立日期",
+    "object": "1951年"
+  },
+  {
+    "subject": "尼迪克特·康伯巴奇",
+    "predicate": "饰演",
+    "object": "艾伦·图灵"
+  },
+  {
+    "subject": "普林斯顿大学",
+    "predicate": "成立日期",
+    "object": "1938年"
+  },
+  {
+    "subject": "曼彻斯特大学计算机实验室",
+    "predicate": "成立日期",
+    "object": "1949年"
+  },
+  {
+    "subject": "恩尼格玛密",
+    "predicate": "国籍",
+    "object": "大英"
+  },
+  {
+    "subject": "计算机器与智能",
+    "predicate": "作者",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "毕业院校",
+    "object": "伦敦泰丁顿国家物理实验室"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "饰演",
+    "object": "休·怀特摩尔"
+  },
+  {
+    "subject": "艾赛儿·斯托尼",
+    "predicate": "母亲",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "剑桥大学国王学院",
+    "predicate": "成立日期",
+    "object": "1936年"
+  },
+  {
+    "subject": "阿朗佐·丘奇",
+    "predicate": "毕业院校",
+    "object": "美国普林斯顿高级研究院"
+  },
+  {
+    "subject": "英国外交部通信处",
+    "predicate": "成立日期",
+    "object": "1939年"
+  },
+  {
+    "subject": "模仿游戏",
+    "predicate": "作者",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1936年"
+  },
+  {
+    "subject": "艾伦·图灵传",
+    "predicate": "上映时间",
+    "object": "2014年11月28日"
+  },
+  {
+    "subject": "陆军总司令部",
+    "predicate": "总部地点",
+    "object": "希特勒"
+  },
+  {
+    "subject": "伊丽莎白二世",
+    "predicate": "丈夫",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1945年"
+  },
+  {
+    "subject": "曼彻斯特大学计算机实验室",
+    "predicate": "成立日期",
+    "object": "1945年—1948年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "国籍",
+    "object": "大英"
+  },
+  {
+    "subject": "形态发生的化学基础",
+    "predicate": "作者",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "北大西洋商船队",
+    "predicate": "总部地点",
+    "object": "英国"
+  },
+  {
+    "subject": "曼彻斯特大学计算机实验室",
+    "predicate": "成立日期",
+    "object": "1950年"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1954年"
+  },
+  {
+    "subject": "剑桥",
+    "predicate": "所在城市",
+    "object": "伊利"
+  },
+  {
+    "subject": "艾伦·图灵传：如谜的解谜者",
+    "predicate": "作者",
+    "object": "Andrew Hodges"
+  },
+  {
+    "subject": "论高斯误差函数",
+    "predicate": "上映时间",
+    "object": "1935年"
+  },
+  {
+    "subject": "恩尼格玛密码机",
+    "predicate": "创始人",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "马斯·理查兹",
+    "predicate": "国籍",
+    "object": "英国"
+  },
+  {
+    "subject": "图灵机",
+    "predicate": "国籍",
+    "object": "英国"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1938年"
+  },
+  {
+    "subject": "普林斯顿大学",
+    "predicate": "成立日期",
+    "object": "1939年"
+  },
+  {
+    "subject": "阿诺德·穆雷",
+    "predicate": "妻子",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "可计算性与λ可定义性",
+    "predicate": "作者",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "英国泰晤士报",
+    "predicate": "董事长",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "朱利叶斯·马西森·图灵",
+    "predicate": "父亲",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "阿朗佐·丘奇",
+    "predicate": "丈夫",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "琼·克拉克",
+    "predicate": "丈夫",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1950年"
+  },
+  {
+    "subject": "琼·克拉克",
+    "predicate": "毕业院校",
+    "object": "剑桥大学国王学院"
+  },
+  {
+    "subject": "罗宾·甘迪",
+    "predicate": "毕业院校",
+    "object": "剑桥大学国王学院"
+  },
+  {
+    "subject": "模仿游戏",
+    "predicate": "改编自",
+    "object": "艾伦·图灵传"
+  },
+  {
+    "subject": "艾伦·图灵传",
+    "predicate": "导演",
+    "object": "Morten Tyldum"
+  },
+  {
+    "subject": "Bletchley Park",
+    "predicate": "所在城市",
+    "object": "布莱切利园"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "母亲",
+    "object": "伊丽莎白二世"
+  },
+  {
+    "subject": "程",
+    "predicate": "毕业院校",
+    "object": "巴黎大学文理学院"
+  },
+  {
+    "subject": "戈登·布朗",
+    "predicate": "国籍",
+    "object": "英国"
+  },
+  {
+    "subject": "可计算性与λ可定义性",
+    "predicate": "作者",
+    "object": "阿朗佐·丘奇"
+  },
+  {
+    "subject": "马拉松",
+    "predicate": "国籍",
+    "object": "英国"
+  },
+  {
+    "subject": "剑桥大学国王学院",
+    "predicate": "成立日期",
+    "object": "1935年"
+  },
+  {
+    "subject": "艾伦·图灵传：如谜的解谜者",
+    "predicate": "作者",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "曼彻斯特大学计算机实验室",
+    "predicate": "成立日期",
+    "object": "1936年"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1935年"
+  },
+  {
+    "subject": "布莱切利园",
+    "predicate": "所在城市",
+    "object": "Bletchley Park"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1935年"
+  },
+  {
+    "subject": "程",
+    "predicate": "父亲",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "百老汇",
+    "predicate": "所在城市",
+    "object": "Breaking the Code"
+  },
+  {
+    "subject": "英格兰银行",
+    "predicate": "总部地点",
+    "object": "图灵"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1939年"
+  },
+  {
+    "subject": "恩尼格玛密码机",
+    "predicate": "成立日期",
+    "object": "1938年"
+  },
+  {
+    "subject": "曼彻斯特大学计算机实验室",
+    "predicate": "成立日期",
+    "object": "1954年"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1954年6月7日"
+  },
+  {
+    "subject": "英国奥运代表队",
+    "predicate": "成立日期",
+    "object": "1948年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "毕业院校",
+    "object": "巴黎大学文理学院"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "丈夫",
+    "object": "琼·克拉克"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "父亲",
+    "object": "程"
+  },
+  {
+    "subject": "预科学校",
+    "predicate": "成立日期",
+    "object": "1922年6月"
+  },
+  {
+    "subject": "英格兰银行",
+    "predicate": "成立日期",
+    "object": "2018年"
+  },
+  {
+    "subject": "拉斯·哈特里",
+    "predicate": "丈夫",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "破解密码",
+    "predicate": "上映时间",
+    "object": "1986年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "父亲",
+    "object": "朱利叶斯·马西森·图灵"
+  },
+  {
+    "subject": "休·怀特摩尔",
+    "predicate": "饰演",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "毕业院校",
+    "object": "剑桥大学国王学院"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "父亲",
+    "object": "爱德华"
+  },
+  {
+    "subject": "论可计算的数及其在密码问题中的应用",
+    "predicate": "作者",
+    "object": "图灵机"
+  },
+  {
+    "subject": "艾伦·图灵传",
+    "predicate": "作者",
+    "object": "Andrew Hodges"
+  },
+  {
+    "subject": "计算机器和智能（Computing Machinery and Intelligence）",
+    "predicate": "作者",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "恩尼格玛密码机",
+    "predicate": "成立日期",
+    "object": "1939年"
+  },
+  {
+    "subject": "普林斯顿大学",
+    "predicate": "成立日期",
+    "object": "1946年"
+  },
+  {
+    "subject": "艾伦·图灵",
+    "predicate": "国籍",
+    "object": "Bletchley Park"
+  },
+  {
+    "subject": "曼彻斯特大学计算机实验室",
+    "predicate": "成立日期",
+    "object": "1935年"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1951年"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1948年"
+  },
+  {
+    "subject": "拉斯·哈特里",
+    "predicate": "毕业院校",
+    "object": "剑桥大学国王学院"
+  },
+  {
+    "subject": "剑桥大学国王学院",
+    "predicate": "成立日期",
+    "object": "1938年"
+  },
+  {
+    "subject": "大英",
+    "predicate": "所在城市",
+    "object": "百老汇"
+  },
+  {
+    "subject": "破解密码",
+    "predicate": "主演",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1938年"
+  },
+  {
+    "subject": "恩尼格玛密码机",
+    "predicate": "成立日期",
+    "object": "1946年"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1938年"
+  },
+  {
+    "subject": "图灵机",
+    "predicate": "毕业院校",
+    "object": "普林斯顿大学"
+  },
+  {
+    "subject": "程",
+    "predicate": "丈夫",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "艾伦·图灵传：如谜的解谜者",
+    "predicate": "上映时间",
+    "object": "1983年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "毕业院校",
+    "object": "美国普林斯顿高级研究院"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1948年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "丈夫",
+    "object": "程"
+  },
+  {
+    "subject": "布莱切利园",
+    "predicate": "所在城市",
+    "object": "大英"
+  },
+  {
+    "subject": "形态发生的化学基础",
+    "predicate": "上映时间",
+    "object": "1952年"
+  },
+  {
+    "subject": "曼彻斯特电子计算机程序员手册",
+    "predicate": "作者",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "大英",
+    "predicate": "所在城市",
+    "object": "Breaking the Code"
+  },
+  {
+    "subject": "模仿游戏",
+    "predicate": "上映时间",
+    "object": "2014年11月28日"
+  },
+  {
+    "subject": "剑桥大学国王学院",
+    "predicate": "成立日期",
+    "object": "1953年"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1945年—1948年"
+  },
+  {
+    "subject": "伦敦泰丁顿国家物理实验室",
+    "predicate": "成立日期",
+    "object": "1946年"
+  },
+  {
+    "subject": "Breaking the Code",
+    "predicate": "所在城市",
+    "object": "大英"
+  },
+  {
+    "subject": "恩尼格玛密",
+    "predicate": "国籍",
+    "object": "英国"
+  },
+  {
+    "subject": "阿诺德·穆雷",
+    "predicate": "丈夫",
+    "object": "艾伦·麦席森·图灵"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "毕业院校",
+    "object": "英国皇家学会"
+  },
+  {
+    "subject": "剑桥大学国王学院",
+    "predicate": "成立日期",
+    "object": "1939年"
+  },
+  {
+    "subject": "普林斯顿大学",
+    "predicate": "成立日期",
+    "object": "1936年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "丈夫",
+    "object": "伊丽莎白二世"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1939年"
+  },
+  {
+    "subject": "爱因斯坦",
+    "predicate": "父亲",
+    "object": "爱德华"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1939年"
+  },
+  {
+    "subject": "朱利叶斯·马西森·图灵",
+    "predicate": "毕业院校",
+    "object": "牛津大学基督学院"
+  },
+  {
+    "subject": "印度民政部",
+    "predicate": "成立日期",
+    "object": "1896年7月"
+  },
+  {
+    "subject": "剑桥大学国王学院",
+    "predicate": "成立日期",
+    "object": "1946年"
+  },
+  {
+    "subject": "恩尼格玛密码机",
+    "predicate": "成立日期",
+    "object": "1936年"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1912年6月23日"
+  },
+  {
+    "subject": "恩尼格玛密码机",
+    "predicate": "总部地点",
+    "object": "英国"
+  },
+  {
+    "subject": "英国皇家学会",
+    "predicate": "成立日期",
+    "object": "1946年"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "毕业院校",
+    "object": "牛津大学基督学院"
+  },
+  {
+    "subject": "曼彻斯特大学",
+    "predicate": "成立日期",
+    "object": "1946年"
+  },
+  {
+    "subject": "艾伦·图灵传",
+    "predicate": "改编自",
+    "object": "模仿游戏"
+  },
+  {
+    "subject": "曼彻斯特大学计算机实验室",
+    "predicate": "成立日期",
+    "object": "1938年"
+  },
+  {
+    "subject": "朱利叶斯·马西森·图灵",
+    "predicate": "国籍",
+    "object": "印度"
+  },
+  {
+    "subject": "模仿游戏",
+    "predicate": "作者",
+    "object": "Andrew Hodges"
+  },
+  {
+    "subject": "艾伦·麦席森·图灵",
+    "predicate": "国籍",
+    "object": "英国"
+  }
+]

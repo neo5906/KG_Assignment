@@ -1,0 +1,1094 @@
+[
+  {
+    "entity": "艾伦·麦席森·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1912年6月23日",
+    "type": "DATE"
+  },
+  {
+    "entity": "1954年6月7日",
+    "type": "DATE"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "皇家学会",
+    "type": "ORG"
+  },
+  {
+    "entity": "艾伦·麦席森·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1935年",
+    "type": "DATE"
+  },
+  {
+    "entity": "剑桥大学国王学院",
+    "type": "ORG"
+  },
+  {
+    "entity": "1936年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1938年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "普林斯顿大学",
+    "type": "ORG"
+  },
+  {
+    "entity": "1939年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "德国",
+    "type": "LOC"
+  },
+  {
+    "entity": "恩尼格玛密",
+    "type": "PER"
+  },
+  {
+    "entity": "1946年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "大英",
+    "type": "PER"
+  },
+  {
+    "entity": "1945年—1948年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "伦敦",
+    "type": "LOC"
+  },
+  {
+    "entity": "泰丁顿",
+    "type": "LOC"
+  },
+  {
+    "entity": "国家物理实验室",
+    "type": "ORG"
+  },
+  {
+    "entity": "1948年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "曼彻斯特大学",
+    "type": "ORG"
+  },
+  {
+    "entity": "1949年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "曼彻斯特大学计算机实验室",
+    "type": "ORG"
+  },
+  {
+    "entity": "1950年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1951年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "皇家学会",
+    "type": "ORG"
+  },
+  {
+    "entity": "1954年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1912年6月23日",
+    "type": "DATE"
+  },
+  {
+    "entity": "艾伦·麦席森·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "伦敦",
+    "type": "LOC"
+  },
+  {
+    "entity": "1922年6月",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "哈泽尔赫斯特",
+    "type": "PER"
+  },
+  {
+    "entity": "1926年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "伦敦",
+    "type": "LOC"
+  },
+  {
+    "entity": "谢伯恩",
+    "type": "LOC"
+  },
+  {
+    "entity": "爱因斯坦",
+    "type": "PER"
+  },
+  {
+    "entity": "爱因斯坦",
+    "type": "PER"
+  },
+  {
+    "entity": "爱德华",
+    "type": "PER"
+  },
+  {
+    "entity": "1931年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "剑桥大学国王学院",
+    "type": "ORG"
+  },
+  {
+    "entity": "1935年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "论高斯误差函数",
+    "type": "WORK"
+  },
+  {
+    "entity": "国王学院",
+    "type": "ORG"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "1936年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "论可计算的数及其在密码问题中的应用",
+    "type": "WORK"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "美国",
+    "type": "LOC"
+  },
+  {
+    "entity": "普林斯顿高级研究院",
+    "type": "ORG"
+  },
+  {
+    "entity": "阿朗佐·丘奇",
+    "type": "PER"
+  },
+  {
+    "entity": "1938年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "普林斯顿大学",
+    "type": "ORG"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "剑桥大学国王学院",
+    "type": "ORG"
+  },
+  {
+    "entity": "1939年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "外交部通信处",
+    "type": "ORG"
+  },
+  {
+    "entity": "1940年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "德国",
+    "type": "LOC"
+  },
+  {
+    "entity": "恩尼格玛密",
+    "type": "PER"
+  },
+  {
+    "entity": "恩尼格玛密",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "恩尼格玛密",
+    "type": "PER"
+  },
+  {
+    "entity": "北大西洋商船队",
+    "type": "ORG"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "1942年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "德国",
+    "type": "LOC"
+  },
+  {
+    "entity": "欧洲",
+    "type": "LOC"
+  },
+  {
+    "entity": "北非",
+    "type": "LOC"
+  },
+  {
+    "entity": "希特勒",
+    "type": "PER"
+  },
+  {
+    "entity": "柏林",
+    "type": "LOC"
+  },
+  {
+    "entity": "陆军总司令部",
+    "type": "ORG"
+  },
+  {
+    "entity": "1946年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "大英",
+    "type": "PER"
+  },
+  {
+    "entity": "1945年",
+    "type": "DATE"
+  },
+  {
+    "entity": "1948年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "伦敦",
+    "type": "LOC"
+  },
+  {
+    "entity": "泰丁顿",
+    "type": "LOC"
+  },
+  {
+    "entity": "国家物理实验室",
+    "type": "ORG"
+  },
+  {
+    "entity": "在图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1950年",
+    "type": "DATE"
+  },
+  {
+    "entity": "1958年",
+    "type": "DATE"
+  },
+  {
+    "entity": "1948年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "曼彻斯特大学",
+    "type": "ORG"
+  },
+  {
+    "entity": "曼彻斯特",
+    "type": "PER"
+  },
+  {
+    "entity": "1949年",
+    "type": "DATE"
+  },
+  {
+    "entity": "曼彻斯特大学计算机实验室",
+    "type": "ORG"
+  },
+  {
+    "entity": "曼彻斯特",
+    "type": "PER"
+  },
+  {
+    "entity": "1950年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "曼彻斯特电子计算机程序员手册",
+    "type": "WORK"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "计算机器和智能（Computing Machinery and Intelligence）",
+    "type": "WORK"
+  },
+  {
+    "entity": "1951年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "皇家学会",
+    "type": "ORG"
+  },
+  {
+    "entity": "1952年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "形态发生的化学基础（The Chemical Basis of Morphogenesis）",
+    "type": "WORK"
+  },
+  {
+    "entity": "1953年1月",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1954年6月7日",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "2009年",
+    "type": "DATE"
+  },
+  {
+    "entity": "戈登·布朗",
+    "type": "PER"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "2013年",
+    "type": "DATE"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "伊丽莎白二世",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1936年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "论可计算的数及其在密码问题中的应用",
+    "type": "WORK"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "冯·诺依曼",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵机",
+    "type": "PER"
+  },
+  {
+    "entity": "戴维·希尔伯特",
+    "type": "PER"
+  },
+  {
+    "entity": "1928年",
+    "type": "DATE"
+  },
+  {
+    "entity": "丘奇",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1936-19",
+    "type": "DATE"
+  },
+  {
+    "entity": "丘奇",
+    "type": "PER"
+  },
+  {
+    "entity": "1937年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "可计算性与λ可定义性",
+    "type": "WORK"
+  },
+  {
+    "entity": "丘奇",
+    "type": "PER"
+  },
+  {
+    "entity": "Church",
+    "type": "PER"
+  },
+  {
+    "entity": "丘奇",
+    "type": "PER"
+  },
+  {
+    "entity": "丘奇",
+    "type": "PER"
+  },
+  {
+    "entity": "1950年10月",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "计算机器与智能",
+    "type": "WORK"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1952年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "形态发生的化学基础",
+    "type": "WORK"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "艾伦·麦席森·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "剑桥大学",
+    "type": "ORG"
+  },
+  {
+    "entity": "1953年",
+    "type": "DATE"
+  },
+  {
+    "entity": "罗宾·甘迪",
+    "type": "PER"
+  },
+  {
+    "entity": "道格拉斯·哈特里",
+    "type": "PER"
+  },
+  {
+    "entity": "阿特丽斯·沃斯利",
+    "type": "PER"
+  },
+  {
+    "entity": "1941年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "布莱切利园",
+    "type": "LOC"
+  },
+  {
+    "entity": "琼·克拉克",
+    "type": "PER"
+  },
+  {
+    "entity": "剑桥大学",
+    "type": "ORG"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "克拉克",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1952年1月",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "曼彻斯特",
+    "type": "LOC"
+  },
+  {
+    "entity": "阿诺德·穆雷",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "穆雷",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "朱利叶斯·马西森·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "牛津大学基督学院",
+    "type": "ORG"
+  },
+  {
+    "entity": "1896年7月",
+    "type": "DATE"
+  },
+  {
+    "entity": "朱利叶斯",
+    "type": "PER"
+  },
+  {
+    "entity": "英",
+    "type": "LOC"
+  },
+  {
+    "entity": "印度",
+    "type": "LOC"
+  },
+  {
+    "entity": "印度",
+    "type": "LOC"
+  },
+  {
+    "entity": "民政部",
+    "type": "ORG"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "艾赛儿·斯托尼",
+    "type": "PER"
+  },
+  {
+    "entity": "巴黎",
+    "type": "LOC"
+  },
+  {
+    "entity": "大学文理学院",
+    "type": "ORG"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "剑桥国王学院",
+    "type": "LOC"
+  },
+  {
+    "entity": "剑桥",
+    "type": "LOC"
+  },
+  {
+    "entity": "伊利",
+    "type": "LOC"
+  },
+  {
+    "entity": "布莱切利园",
+    "type": "LOC"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "英里",
+    "type": "PER"
+  },
+  {
+    "entity": "伦敦",
+    "type": "LOC"
+  },
+  {
+    "entity": "1948年",
+    "type": "DATE"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "奥运代表队",
+    "type": "ORG"
+  },
+  {
+    "entity": "马拉松",
+    "type": "PER"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "托马斯·理查兹",
+    "type": "PER"
+  },
+  {
+    "entity": "艾伦·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "德国",
+    "type": "LOC"
+  },
+  {
+    "entity": "艾伦·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "2012年",
+    "type": "DATE"
+  },
+  {
+    "entity": "艾伦·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "艾伦·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1966年",
+    "type": "DATE"
+  },
+  {
+    "entity": "美国计算机协会",
+    "type": "ORG"
+  },
+  {
+    "entity": "ACM",
+    "type": "ORG"
+  },
+  {
+    "entity": "美国计算机协会",
+    "type": "ORG"
+  },
+  {
+    "entity": "诺贝尔",
+    "type": "PER"
+  },
+  {
+    "entity": "英格兰",
+    "type": "LOC"
+  },
+  {
+    "entity": "米尔顿",
+    "type": "LOC"
+  },
+  {
+    "entity": "凯恩斯",
+    "type": "LOC"
+  },
+  {
+    "entity": "布莱切利园",
+    "type": "LOC"
+  },
+  {
+    "entity": "艾伦·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "2013年12月",
+    "type": "DATE"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "伊丽莎白二世",
+    "type": "PER"
+  },
+  {
+    "entity": "曼彻斯特",
+    "type": "LOC"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1983年",
+    "type": "DATE"
+  },
+  {
+    "entity": "安德鲁·霍奇斯",
+    "type": "PER"
+  },
+  {
+    "entity": "Andrew Hodges",
+    "type": "PER"
+  },
+  {
+    "entity": "艾伦·图灵传：如谜的解谜者",
+    "type": "WORK"
+  },
+  {
+    "entity": "破解密码",
+    "type": "WORK"
+  },
+  {
+    "entity": "休·怀特摩尔",
+    "type": "PER"
+  },
+  {
+    "entity": "1986年",
+    "type": "DATE"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "伦敦西区",
+    "type": "LOC"
+  },
+  {
+    "entity": "百老汇",
+    "type": "LOC"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "德里克·雅各比",
+    "type": "PER"
+  },
+  {
+    "entity": "模仿游戏",
+    "type": "WORK"
+  },
+  {
+    "entity": "莫腾·泰杜姆",
+    "type": "PER"
+  },
+  {
+    "entity": "安德鲁·霍奇斯",
+    "type": "PER"
+  },
+  {
+    "entity": "艾伦·图灵传",
+    "type": "WORK"
+  },
+  {
+    "entity": "2014年11月28日",
+    "type": "DATE"
+  },
+  {
+    "entity": "本尼迪克特·康伯巴奇",
+    "type": "PER"
+  },
+  {
+    "entity": "艾伦·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "艾伦·图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "德国",
+    "type": "LOC"
+  },
+  {
+    "entity": "恩尼格玛",
+    "type": "PER"
+  },
+  {
+    "entity": "奥斯卡金",
+    "type": "PER"
+  },
+  {
+    "entity": "2018年",
+    "type": "DATE"
+  },
+  {
+    "entity": "英格兰",
+    "type": "LOC"
+  },
+  {
+    "entity": "图灵",
+    "type": "PER"
+  },
+  {
+    "entity": "1949年",
+    "type": "DATE"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "泰晤士报",
+    "type": "ORG"
+  },
+  {
+    "entity": "2021年",
+    "type": "DATE"
+  },
+  {
+    "entity": "2017年1月31日",
+    "type": "DATE"
+  },
+  {
+    "entity": "英国",
+    "type": "LOC"
+  },
+  {
+    "entity": "1967年",
+    "type": "DATE"
+  }
+]
